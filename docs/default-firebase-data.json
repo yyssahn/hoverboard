@@ -1437,7 +1437,7 @@
   },
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
+      "name" : "Davey Edwards",
       "photo" : "/images/people/oleh_zasadnyy.jpg",
       "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
       "socials" : [ {
@@ -1450,7 +1450,7 @@
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
+        "link" : "https://twitter.com/daveyedwards",
         "name" : "Twitter"
       }, {
         "icon" : "website",
@@ -1459,7 +1459,7 @@
       } ],
       "title" : "Website and sponsors"
     }, {
-      "name" : "Sofiya Huts",
+      "name" : "Piyali Dey",
       "photo" : "/images/people/sofiya_huts.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
       "socials" : [ {
@@ -1467,9 +1467,9 @@
         "link" : "https://plus.google.com/+SofiaHuts",
         "name" : "Google+"
       }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
+        "icon" : "twitter",
+        "link" : "https://twitter.com/gradgospel",
+        "name" : "Twitter"
       } ],
       "title" : "Social and media"
     }, {
