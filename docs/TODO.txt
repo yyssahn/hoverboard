@@ -1,0 +1,31 @@
+TODO:
+
+1) create youtube playlist? - resources.json 114
+2) images/team
+3) do schedule / speaker - 
+4) Update FAQ.md and cod.md
+5) update social handles, 
+6) mail to ???
+7) photo album for highlights
+8) 
+get following info for speakers
+"bio" : "",
+"company" : "",
+"companyLogo" : "",
+"companyLogoUrl" : "",
+"country" : "",
+"featured" : true,
+"name" : "Vikram Tiwari",
+"photo" : "",
+"photoUrl" : "",
+"shortBio" : "",
+"socials" : [ {
+    "icon" : "gplus",
+    "link" : "plus.google.com/+AdrianKajda",
+    "name" : "Google+"
+  } ],
+"title" : ""
+ 
+
+
+AFTER:// compare with original

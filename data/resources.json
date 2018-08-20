@@ -111,7 +111,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "DevFests around the globe",
     "callToAction": {
       "label": "See all videos",
       "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
@@ -120,13 +120,6 @@
   "blog": {
     "published": "Published",
     "suggested": "Up next"
-  },
-  "latestPostsBlock": {
-    "title": "The latest news",
-    "callToAction": {
-      "label": "View all stories",
-      "link": "/blog/"
-    }
   },
   "speakers": {
     "skills": "Skills",
@@ -209,7 +202,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='https://www.meetup.com/GDGCloudVancouver/' target='_blank'>GDG Cloud Vancouver</a> is Vancouver's very own GDG group!",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
