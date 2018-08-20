@@ -1,12 +1,9 @@
 TODO:
-
-1) create youtube playlist? - resources.json 114
-2) images/team
-3) do schedule / speaker - 
-4) Update FAQ.md and cod.md
-5) update social handles, 
-6) mail to ???
-7) photo album for highlights
+1) do schedule / speaker - 
+2) Update FAQ.md and cod.md
+3) update social handles, 
+4) mail to ???
+5) photo album for highlights
 8) 
 get following info for speakers
 "bio" : "",

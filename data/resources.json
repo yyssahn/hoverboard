@@ -145,7 +145,7 @@
     "description": "This year's events built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.app.goo.gl/5wq4tiSOIZJX2dm13"
     }
   },
   "mapBlock": {
@@ -169,7 +169,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developer Group Cloud Vancouver](https://www.meetup.com/GDGCloudVancouver/) - is an open volunteer tech community who create exciting projects and share experience about Google Cloud technologies with a passion.<br><br> Our goal is to organize space to grow the Vancouver."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -198,7 +198,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/team.jpg?alt=media&token=10a61ff4-77c5-4ba8-a340-9eafb49503f5",
     "blocks": [
       {
         "title": "Organizer",
