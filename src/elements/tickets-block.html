@@ -103,6 +103,8 @@
         display: grid;
         width: 100%;
       }
+      
+      
 
       paper-button[disabled] {
         background-color: var(--primary-color-transparent);
@@ -163,7 +165,6 @@
             <div class="content" layout vertical flex-auto>
               <div class="ticket-price-wrapper">
                 <div class="price">[[ticket.currency]][[ticket.price]]</div>
-                <div class="discount">[[_getDiscount(ticket)]]</div>
               </div>
               <div class="type-description" layout vertical flex-auto center-justified>
                 <div class="ticket-dates" hidden$="[[!ticket.starts]]">[[ticket.starts]] - [[ticket.ends]]</div>
