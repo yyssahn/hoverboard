@@ -1,10 +1,7 @@
 TODO:
 1) do schedule / speaker - 
 2) Update FAQ.md and cod.md
-3) update social handles, 
-4) mail to ???
-5) photo album for highlights
-8) 
+3) 
 get following info for speakers
 "bio" : "",
 "company" : "",

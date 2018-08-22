@@ -181,7 +181,20 @@
   "speakerDetails": {
     "sessions": "Sessions"
   },
-  
+  "notifications": {
+    "default": "Enable notifications",
+    "enabled": "We will miss you but you can unsubscribe anytime",
+    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
+    "subscribe": "Subscribe",
+    "unsubscribe": "Unsubscribe",
+    "enable": {
+      "label": "Enable",
+      "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
+    },
+    "toast": {
+      "title": "Open"
+    }
+  },
   "aboutOrganizerBlock": {
     "image": "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/team.jpg?alt=media&token=10a61ff4-77c5-4ba8-a340-9eafb49503f5",
     "blocks": [
