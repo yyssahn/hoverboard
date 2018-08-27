@@ -44,47 +44,11 @@
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG[x]",
       "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
     } ],
     "title" : "General Partner"
   } ],
   "schedule" : {
-    "2016-09-20" : {
+    "2018-09-20" : {
       "dateReadable" : "September 20",
       "timeslots" : [ {
         "endTime" : "09:30",
@@ -133,7 +97,7 @@
         "title" : "Room A"
       } ]
     },
-    "2016-09-21" : {
+    "2018-09-21" : {
       "dateReadable" : "September 21",
       "timeslots" : [ {
         "endTime" : "09:30",
@@ -142,29 +106,41 @@
         } ],
         "startTime" : "09:00"
       }, {
-        "endTime" : "10:00",
+        "endTime" : "09:50",
         "sessions" : [ {
           "items" : [ 136 ]
         } ],
         "startTime" : "09:30"
       }, {
-        "endTime" : "10:30",
+        "endTime" : "10:00",
         "sessions" : [ {
-          "items" : [ 139 ]
+          "items" : [ 141 ]
         } ],
-        "startTime" : "10:00"
+        "startTime" : "09:50"
       }, {
-        "endTime" : "11:30",
+        "endTime" : "11:00",
         "sessions" : [ {
           "items" : [ 122 ]
         } ],
-        "startTime" : "10:30"
+        "startTime" : "10:00"
+      }, {
+        "endTime" : "12:30",
+        "sessions" : [ {
+          "items" : [ 143 ]
+        } ],
+        "startTime" : "11:30"
       }, {
         "endTime" : "13:30",
         "sessions" : [ {
           "items" : [ 133 ]
         } ],
         "startTime" : "12:30"
+      }, {
+        "endTime" : "15:00",
+        "sessions" : [ {
+          "items" : [ 142 ]
+        } ],
+        "startTime" : "14:00"
       }, {
         "endTime" : "16:00",
         "sessions" : [ {
@@ -193,11 +169,11 @@
     },
     "102" : {
       "complexity" : "Beginner",
-      "description" : "Fill in the Blank",
+      "description" : "We will start by developing a ML model using TensorFlow, training and deploying it on Google Cloud and then finally use it to get inferences.",
       "language" : "English",
       "speakers" : [ "vikram_tiwari" ],
       "tags" : [ "Machine Learning", "TensorFlow" ],
-      "title" : "End to End Machine Learning"
+      "title" : "Presentation: End to End Machine Learning"
     },
     "103" : {
       "complexity" : "Beginner",
@@ -374,10 +350,10 @@
     },
     "122" : {
       "complexity" : "Beginner",
-      "description" : "AutoML",
+      "description" : "AutoML is one of the newest products from Google making it super simple for anyone without machine learning or coding knowledge to build powerful machine learning models.  Come get some hands on experience with AutoML Vision while getting tips and tricks for how to get the best results.",
       "speakers" : [ "dan_baran" ],
-      "tags" : [ "Machine Learning" ],
-      "title" : "AutoML stuff"
+      "tags" : [ "Machine Learning" , "AutoML" ],
+      "title" : "AutoML Vision: No Code No Problem"
     },
     "123" : {
       "complexity" : "Beginner",
@@ -439,12 +415,12 @@
       "title" : " Organizing Complex Systems with GraphQL"
     },
     "130" : {
-      "complexity" : "Intermediate",
-      "description" : "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+      "complexity" : "Beginner",
+      "description" : "We will start by developing a ML model using TensorFlow, training and deploying it on Google Cloud and then finally use it to get inferences.",
       "language" : "English",
       "speakers" : [ "vikram_tiwari" ],
       "tags" : [ "Machine Learning", "TensorFlow" ],
-      "title" : "Vikram's Workshop"
+      "title" : "Workshop: End to End Machin Learning"
     },
     "131" : {
       "complexity" : "Intermediate",
@@ -506,12 +482,34 @@
       "description" : "TBD",
       "language" : "English",
       "title" : "TBD"
+    },
+    "141" : {
+      "description" : "GDG Cloud Vancouver's short intro to DevFest Day 2, what to expect, and how to get the most out of it",
+      "language" : "English",
+      "title" : "Welcome to DevFest Day 2"
+    },
+    "142" : {
+      "description" : "Learn how to increase the power of your favorite Google apps — like Calendar, Docs, Drive, Gmail, Sheets, and Slides – with JavaScript in Google Cloud.",
+      "complexity" : "Beginner",
+      "speakers" : [ "grant_timmerman" ],
+      "tags" : [ "G Suite", "JavaScript", "Google Cloud", "Calender", "Docs", "Drive", "Gmail", "Sheets", "Slides" ],
+      "language" : "English",
+      "title" : "Automate G Suite with APIs and Apps Script"
+    },
+    "143" : {
+      "description" : "This talk will teach you the end to end process of how to train a model with TensorFlow high level API tf.Keras, obtain the TensorFlow Lite model and deploy it to an Android app. In this session, you will learn these topics: <br>\r\n\u2022    Intro to AI, ML, deep learning and computer vision.<br>\r\n\u2022    Resources for you to get started with ML.<br>\r\n\u2022    How to train a neural network with tf.Keras. <br>\r\n\u2022    Visualize what neural networks see. <br>\r\n\u2022    TensorFlow Lite model on Android.",
+      "complexity" : "Beginner",
+      "speakers" : [ "margaret_maynard-reid" ],
+      "tags" : [ "TensorFlow", "Keras", "Machine Learning","Android" ],
+      "language" : "English",
+      "title" : "End to End ML: tf.Keras to TensorFlow Lite on Android"
     }
   },
   "speakers" : {
     "vikram_tiwari" : {
       "bio" : "Building scalable web and data platforms for high availability, resilience, and security. Co-founder, Tech @omnilabsinc #GDE @GoogleCloud and #MachineLearning",
       "company" : "Omni Labs",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Flogos%2Fomni_logo.png?alt=media&token=49cc0667-4c0b-465b-9dc1-bb02c5816470",
       "featured" : true,
       "name" : "Vikram Tiwari",
       "photo" : "/images/people/vikram.jpg",
@@ -525,12 +523,13 @@
       "title" : "Co-Founder of Omni Labs"
     },
     "dan_baran" : {
-      "bio" : "A driven web developer with a broad skill-set and a passion for learning new technologies and sharing that knowledge with fellow developers. Five years of working on search engine optimization, pay per click campaigns, email marketing campaigns, and using Google Analytics to assist in making data-driven decision in addition to working on the front-end and back-end development of multiple websites. A strong attention to detail as well as the ability to multi-task and juggle multiple high priority projects at once.",
-      "company" : "Sun Chemical",
+      "bio" : "Dan Baran is the lead developer at Sun Chemical. He is focused on developing and maintaining their websites and apps. He is also the organizer of GDG Chicago. Technical related passions include data, data visualizations and has recently dug in to the world of Machine Learning.",
+      "company" : "GDG Chicago",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Flogos%2Fgdg-chicago.jpg?alt=media&token=878feb54-235b-4f48-809d-3b6056de4d02",
       "featured" : true,
       "name" : "Dan Baran",
       "photo" : "/images/people/dan_baran.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Fpeople%2Fdan%20Baran.jpg?alt=media&token=2fddd87e-60e7-46df-9646-13acaba47f22",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Fpeople%2Fdan.png?alt=media&token=686bb3e4-5ce0-438c-b3ab-eaf506ae3c1b",
       "shortBio" : "A driven web developer with a broad skill-set and a passion for learning...",
       "socials" : [ {
         "icon" : "twitter",
@@ -542,6 +541,7 @@
     "adam_zionts" : {
       "bio" : "Adam is a cloud systems engineer at Apollo GraphQL, building out Apollo Engine, an observability and collaboration platform for GraphQL.",
       "company" : "Apollo",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Flogos%2Fapollo-logo.png?alt=media&token=d406b25f-2aff-4c1b-a1bd-c5bcf0e3565a",
       "featured" : true,
       "name" : "Adam Zionts",
       "photo" : "/images/people/Adam_Zionts.jpg",
@@ -553,6 +553,38 @@
         "name" : "Twitter"
       } ],
       "title" : "Cloud Systems Engineer at Apollo"
+    },
+    "margaret_maynard-reid" : {
+      "bio" : "Margaret Maynard-Reid is a Google Developer Expert(GDE) for Machine Learning, and she develops Android apps with intelligence. She leads GDG Seattle and co-organizes Seattle Data/Analytics/Machine Learning meetup groups. She writes blogs and speaks at conferences on TensorFlow, deep learning and Android. She is passionate about community building and helping others get into Artificial Intelligence and Machine Learning.",
+      "featured" : true,
+      "company" : "Google Developer Expert",
+      "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Flogos%2Fgde.png?alt=media&token=22551135-daed-4b93-909d-8ae005777879",
+      "name" : "Margaret Maynard-Reid",
+      "photo" : "/images/people/Margaret-Maynard-Reid.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Fpeople%2FMargaret-Maynard-Reid.png?alt=media&token=e52e40bd-78da-46ed-a751-f4a4ea8e0246",
+      "shortBio" : "Margaret Maynard-Reid is a Google Developer Expert(GDE) for Machine Learning, and she develops Android apps...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/margaretmz",
+        "name" : "Twitter"
+      } ],
+      "title" : "Google Developer Expert : Deep Learning, Tensorflow, Android"
+    },
+    "grant_timmerman" : {
+      "bio" : "Grant is a developer platform engineer at Google where he leads open source for G Suite APIs. He loves Node, GitHub, and plays the alto saxophone in his spare time.",
+      "company" : "Google",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Flogos%2Fgoogle2.0.0.jpg?alt=media&token=6d4c87bd-e025-4e94-8f2d-159e2d27d463",
+      "featured" : true,
+      "name" : "Grant Timmerman",
+      "photo" : "/images/people/Grant_Timmerman.jpg",
+      "photoUrl" : "https://user-images.githubusercontent.com/744973/38894674-c762c6dc-4242-11e8-82a4-c3369c2adf94.jpg",
+      "shortBio" : "Grant is a developer platform engineer at Google where he leads open source for G Suite APIs...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/granttimmerman",
+        "name" : "Twitter"
+      } ],
+      "title" : "Googler"
     }
   },
   "team" : [ {
@@ -573,7 +605,7 @@
         "link" : "https://github.com/DaveyEdwards",
         "name" : "Github"
       } ],
-      "title" : "Speaker, Swags, and Money"
+      "title" : "Speakers, Marketing, Swags, and Money"
     }, {
       "name" : "Piyali Dey",
       "photo" : "/images/people/piyali.jpg",
@@ -610,44 +642,44 @@
         "name" : "Blog"
       }
      ],
-      "title" : "Venue, Sponsorship, Logistics, Stuff"
+      "title" : "Event Host, Venue, Sponsorship, Logistics, Legwork, Stuff"
     } ],
     "title" : "Core Team"
   } ],
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
-    "ends" : "Sept 1",
+    "ends" : "Sept 8",
     "inDemand" : false,
-    "info" : "Early Bird Tickets for Day 1",
-    "name" : "EB1",
+    "info" : "Limited Availability",
+    "name" : "Early Bird Day 1",
     "price" : 10,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Aug 19",
+    "starts" : "Today",
     "url" : "https://www.eventbrite.ca/e/vancouver-devfest-2018-tickets-49274376988#tickets"
   }, {
     "available" : true,
     "currency" : "$",
-    "ends" : "Sept 1",
-    "info" : "Early Bird Tickets for all Day",
-    "name" : "EB0",
+    "ends" : "Sept 8",
+    "info" : "Limited Availability",
+    "name" : "Early Bird Day 1 & Day 2",
     "price" : 15,
     "soldOut" : false,
-    "starts" : "Aug 19",
+    "starts" : "Today",
     "url" : "https://www.eventbrite.ca/e/vancouver-devfest-2018-tickets-49274376988#tickets"
   }, {
     "available" : true,
     "currency" : "$",
-    "ends" : "Sept 1",
+    "ends" : "Sept 8",
     "inDemand" : false,
-    "info" : "Early Bird Tickets for Day 2",
-    "name" : "EB2",
+    "info" : "Limited Availability",
+    "name" : "Early Bird Day 2",
     "price" : 10,
     "regular" : true,
     "primary" : true,
     "soldOut" : false,
-    "starts" : "Aug 19",
+    "starts" : "Today",
     "url" : "https://www.eventbrite.ca/e/vancouver-devfest-2018-tickets-49274376988#tickets"
   } ],
   "triggers" : {

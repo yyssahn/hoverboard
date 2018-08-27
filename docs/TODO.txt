@@ -1,25 +1,22 @@
 TODO:
-1) do schedule / speaker - 
-2) Update FAQ.md and cod.md
-3) 
-get following info for speakers
-"bio" : "",
-"company" : "",
-"companyLogo" : "",
-"companyLogoUrl" : "",
-"country" : "",
-"featured" : true,
-"name" : "Vikram Tiwari",
-"photo" : "",
-"photoUrl" : "",
-"shortBio" : "",
-"socials" : [ {
-    "icon" : "gplus",
-    "link" : "plus.google.com/+AdrianKajda",
-    "name" : "Google+"
-  } ],
-"title" : ""
- 
+  "evgenia_fine" : {
+      "bio" : "Adam is a cloud systems engineer at Apollo GraphQL, building out Apollo Engine, an observability and collaboration platform for GraphQL.",
+      "company" : "",
+      "featured" : true,
+      "name" : "Evgenia Fine",
+      "photo" : "/images/people/Adam_Zionts.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Fpeople%2FAdam%20Zionts.jpeg?alt=media&token=7607bdf3-7807-4836-920a-fbe768767824",
+      "shortBio" : "Adam is a cloud systems engineer at Apollo GraphQL, building out Apollo Engine...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/_Zionts",
+        "name" : "Twitter"
+      } ],
+      "title" : "Cloud Systems Engineer at Apollo"
+    }
 
+  Margaret "description"
+
+and other people
 
 AFTER:// compare with original
